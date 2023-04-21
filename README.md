@@ -1,3 +1,3 @@
 # Hoofdpagina Aquo-standaard
 
-Github van de software ontwikkelingen van de aan de Aquo-standaard gekoppelde onderwerpen. 
+Publicatie van de ontwikkelingen aan de Aquo-standaard gekoppelde onderwerpen. 
